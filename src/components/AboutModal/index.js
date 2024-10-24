@@ -6,7 +6,7 @@ import ReactMarkdown from "react-markdown";
 
 const md = `
 # Vitesses du réseau ferroviaire Français
-Cette carte représente l'ensemble du réseau ferroviaire français tel qu'il est décrit dans les données de [data.sncf.com](https://data.sncf.com), aussi ne sont tracées ici que les lignes de train actuellement exploitées. La largeure des différentes lignes tracées dépend de la vitesse de la section correspondante. Vous pouvez retrouver la vitesse correspondante en cliquant sur une section. Retrouvez le code source de cette application sur [framagit](http://framagit.org/pbellon/reseau-ferroviaire/).
+Cette carte représente l'ensemble du réseau ferroviaire français tel qu'il est décrit dans les données de [data.sncf.com](https://data.sncf.com), aussi ne sont tracées ici que les lignes de train actuellement exploitées. La largeure des différentes lignes tracées dépend de la vitesse de la section correspondante. Vous pouvez retrouver la vitesse correspondante en cliquant sur une section. Retrouvez le code source de cette application sur [github](http://github.com/pbellon/reseau-ferroviaire/).
 
 ## Crédits
 - Conception & Développement: [Pierre Bellon](https://github.com/pbellon/)
